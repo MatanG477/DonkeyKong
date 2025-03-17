@@ -54,17 +54,17 @@ dkong.exe -silent
 
 ## Screenshots
 ### Main Menu
-screenshots- DK/main menu img.png
+![Screenshot](DK/main menu img.png)
 ### instructions and controls,
-screenshots- DK/instructions img.png
+![Screenshot](DK/instructions img.png)
 ### screen options
-screenshots- DK/screen options img.png
+![Screenshot](DK/screen options img.png)
 ### Gameplay
-screenshots- DK/gameplay lv2 img.png
+![Screenshot](DK/gameplay lv2 img.png)
 ### Game Over
-screenshots- DK/game over img.png
+![Screenshot](DK/game over img.png)
 ### Winning Screen
-screenshots- DK/win screen img.png
+![Screenshot](DK/win screen img.png)
 ## File Formats
 The project includes:
 - **`.screen` files**: Defines game levels.
