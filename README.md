@@ -1,5 +1,4 @@
-# DonkeyKong
-Donkey Kong Console Game
+# Donkey Kong Console Game
 
 # Overview
 
