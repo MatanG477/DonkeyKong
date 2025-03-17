@@ -1,15 +1,15 @@
 # DonkeyKong
 Donkey Kong Console Game
 
-Overview
+# Overview
 
 This is a console-based recreation of the classic Donkey Kong game, developed in C++. The project implements various game mechanics such as Mario movement, barrels, ghosts, ladders, and the ultimate goal of rescuing Pauline.
 
-How to Play
+# How to Play
 
 The objective of the game is to control Mario (@) and navigate through obstacles to rescue Pauline ($). Donkey Kong (&) throws barrels (O), and ghosts (x) roam the platforms. Use ladders (H) to climb and a hammer (p) to destroy barrels and ghosts. If you reach Pauline, you win the level!
 
-Features
+# Features
 
 ASCII-based graphics with optional color mode.
 
@@ -25,7 +25,7 @@ Organized file structure for better maintainability.
 
 CI/CD support (planned) for automated testing.
 
-Installation & Execution
+# Installation & Execution
 
 1. Clone the repository
 
@@ -50,7 +50,7 @@ dkong.exe -load
 dkong.exe -save
 dkong.exe -silent
 
-Controls
+# Controls
 
 LEFT → A / a
 
@@ -66,15 +66,15 @@ Use Hammer → P / p
 
 Pause → ESC
 
-Screenshots
+# Screenshots
 
-(Include relevant screenshots here)
 
-Contributing
+
+# Contributing
 
 Feel free to fork the repository and submit pull requests with improvements or bug fixes.
 
-License
+# License
 
 This project is open-source. See LICENSE file for details.
 
