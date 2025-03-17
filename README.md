@@ -55,9 +55,9 @@ dkong.exe -silent
 ## Screenshots
 ### Main Menu
 ![Main Menu Image](https://github.com/adi0258/DonkeyKong/blob/main/screenshots-%20DK/main%20menu%20img.png)
-### Instructions and controls
+### Instructions And Controls
 ![Instructions Image](https://github.com/adi0258/DonkeyKong/blob/main/screenshots-%20DK/instructions%20img.png)
-### Screen options
+### Screen Options
 ![Screen Options Image](https://github.com/adi0258/DonkeyKong/blob/main/screenshots-%20DK/screen%20options%20img.png)
 ### Gameplay
 ![Gameplay Level 2 Image](https://github.com/adi0258/DonkeyKong/blob/main/screenshots-%20DK/gameplay%20lv2%20img.png)
