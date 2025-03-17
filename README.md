@@ -56,15 +56,15 @@ dkong.exe -silent
 ### Main Menu
 ![Main Menu Image](https://github.com/adi0258/DonkeyKong/blob/main/screenshots-%20DK/main%20menu%20img.png)
 ### instructions and controls,
-![Screenshot](screenshots- DK/instructions img.png)
+![Instructions Image](https://github.com/adi0258/DonkeyKong/blob/main/screenshots-%20DK/instructions%20img.png)
 ### screen options
-![Screenshot](screenshots- DK/screen options img.png)
+![Screen Options Image](https://github.com/adi0258/DonkeyKong/blob/main/screenshots-%20DK/screen%20options%20img.png)
 ### Gameplay
-![Screenshot](screenshots- DK/gameplay lv2 img.png)
+![Gameplay Level 2 Image](https://github.com/adi0258/DonkeyKong/blob/main/screenshots-%20DK/gameplay%20lv2%20img.png)
 ### Game Over
-![Screenshot](screenshots- DK/game over img.png)
+![Game Over Image](https://github.com/adi0258/DonkeyKong/blob/main/screenshots-%20DK/game%20over%20img.png)
 ### Winning Screen
-![Screenshot](screenshots- DK/win screen img.png)
+![Win Screen Image](https://github.com/adi0258/DonkeyKong/blob/main/screenshots-%20DK/win%20screen%20img.png)
 ## File Formats
 The project includes:
 - **`.screen` files**: Defines game levels.
